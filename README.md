@@ -1,3 +1,3 @@
-file1 created repository
+file1 pushed repository
 
 Creating first repository 
