@@ -1,0 +1,26 @@
+team: RCB
+city: Bangalore 
+year_founded: 2008
+is_current_champion: false
+background:  >
+  Team was founded in 2008 and is known as Royal Challengers Bengaluru (RCB). 
+  There are one of the oldest IPL team. 
+  Initially the owner of the team was Vijay Mallay and now the frenchise is owned by United Spirits Limited.
+
+famous_players:
+ - name: Virat Kholi
+   number:  18
+ - name: Cameron Green
+   number: 42
+ - name:  Glenn Maxwell
+   number:  32
+ - name:  faf
+   number:  13
+
+management_staff:
+  Chairman:  Prathmesh Mishra
+  VP & head:  Rajesh Menon
+  Head Coach:  Dinesh Karthik
+
+# Above is just a RCB team players and managment list
+  
